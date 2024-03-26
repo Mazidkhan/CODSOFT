@@ -1,1 +1,1 @@
-print("Hello, World!")
+pint("Hello, World!")
